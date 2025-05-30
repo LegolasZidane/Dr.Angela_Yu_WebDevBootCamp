@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+
+    .flex-canvas {
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .grid-container {
+      height: 748px;
+      width: 748px;
+      display: grid;
+      background-color: #000;
+      grid-template: 414px 130px 155px 22px/320px 198px 153px 50px;
+      gap: 9px;
+    }
+
+    .item {
+      background-color: #F0F1EC;
+    }
+
+    .red {
+      background-color: #E72F24;
+    }
+
+    .w1 {
+      grid-column: span 3;
+    }
+
+    .w21 {
+      grid-row: span 2;
+    }
+    
+    .w22 {
+      grid-row: span 2;
+      grid-column: span 2;
+    }
+
+    .blue {
+      grid-area: 2/4/3/5;
+      background-color: #004592;
+      border-bottom: 10px solid black;
+    }
+
+    .yellow {
+      background-color: #F9D01E;
+      grid-area: 4/2/4/3;
+    }
+
+    .black {
+      background-color: #232629;
+      grid-area: 4/3/4/4;
+    }
+
+    .w3 {
+      grid-row: span 2;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="flex-canvas">
+    <div class="grid-container">
+      <div class="item red"></div>
+      <div class="item w1"></div>
+      <div class="item w21"></div>
+      <div class="item w22"></div>
+      <div class="item blue"></div>
+      <div class="item w3"></div>
+      <div class="item w4"></div>
+      <div class="item yellow"></div>
+      <div class="item black"></div>
+    </div>
+  </div>
+</body>
+
+</html>
