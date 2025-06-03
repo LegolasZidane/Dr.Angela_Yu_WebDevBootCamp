@@ -7,3 +7,5 @@ The projects are placed according to the topic taught.
 This does not mean previous topics were ignored.
 
 The previous topics were pre-written to focus on the currently taught topic(a very good technique of Angela).
+
+I am sharing this via my public repository so that it can display the work i've done during this bootcamp.
