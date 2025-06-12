@@ -11,3 +11,5 @@ The previous topics were pre-written to focus on the currently taught topic(a ve
 I am sharing this via my public repository so that it can display the work i've done during this bootcamp.
 
 Two "projects" are games to learn CSS flex and grid. They are not created by me(reason why only links are provided) but they really helped me to grasp these concepts and solidify them.
+
+...
