@@ -1,0 +1,6 @@
+Dived into more html topics like lists, anchor tag, image tag, different attributes.
+
+Created a small project of a birthday invite.
+
+Angela has designed the projects in such a way that we can apply what we've learned in the current section.
+
