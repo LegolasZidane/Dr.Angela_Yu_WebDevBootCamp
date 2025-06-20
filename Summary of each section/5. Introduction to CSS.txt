@@ -1,0 +1,7 @@
+Came to know why CSS came into being and why is it called as such.
+
+Learned
+>Different ways of adding CSS
+>Different types of selectors to style element/s.
+
+Created a project just using CSS.
