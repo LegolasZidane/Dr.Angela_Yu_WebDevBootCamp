@@ -7,3 +7,5 @@ Learnt how the world is connected with underwater cables which can be seen onlin
 Cornell note taking system which i never used. I prefer to write my notes on a word file, and then later copy it on a notebook for revision.
 
 Learnt how to "Ask a Question" which is quite useful, now that i think of it.
+
+I will add a .png file along with the summary which would highlight the application of the section.

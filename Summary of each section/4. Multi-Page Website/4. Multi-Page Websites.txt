@@ -1,0 +1,5 @@
+Absolute and relative paths and html boiler plate's different components were discussed in this section.
+
+Hosting pages on GitHub was something useful.
+
+Did not create portfolio and resume as they will be part of my capstone project eventually named "Why Hire Me?".
