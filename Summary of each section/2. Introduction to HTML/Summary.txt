@@ -4,5 +4,5 @@ MDN(Mozilla Developer Network) was new to me though. Always would look up to W3 
 
 Made a small movie ranking project, can check it out in the repo itself. Used HTML only.
 
-The .png file shows what we learned in the current section.
+The .png file shows what we learned in the current section. Basic stuff so won't get into it.
 
