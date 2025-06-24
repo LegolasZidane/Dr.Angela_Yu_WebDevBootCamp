@@ -5,3 +5,5 @@ Learned
 >Different types of selectors to style element/s.
 
 Created a project just using CSS.
+
+In CSS, Angela usually gives us the dimensions and any other hints required to solve a particular project.
