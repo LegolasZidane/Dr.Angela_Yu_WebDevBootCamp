@@ -1,0 +1,9 @@
+Why the C in CSS is cascading
+
+Heirarchy of CSS Rules
+
+Various ways of combining CSS Selectors
+
+Different types of CSS Positions
+
+Had fun creating the final project of this section.
