@@ -1,0 +1,7 @@
+Different types of display and the difference between them.
+
+How to wrap text around images using float property.
+
+Achieving responsive web design using media queries, flexbox, grid, bootstrap etc.
+
+Media Queries and how to use them to achieve responsiveness.
