@@ -1,0 +1,7 @@
+This section was all about flexbox.
+
+Before this centering elements was such a pain to deal with.
+
+Flex direction, basis, wrap, justify-content and align-items, order, main and cross-axis, priority list of sizing for flex and many more.
+
+Flexbox froggy was so helpful in cementing the information and converting it into knowledge.
