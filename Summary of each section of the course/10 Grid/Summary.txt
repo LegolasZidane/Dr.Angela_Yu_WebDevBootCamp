@@ -1,0 +1,7 @@
+In this section, grid is introduced.
+
+Using grid for designing, its general syntax, info about rows and columns, how to write html part of grid, overlapping cells, co-ordinates in grid, how to color the gap.
+
+Grid Garden was such a fun way to implement grid.
+
+The final project was a masterpiece sold for 50 million dollars(around).
