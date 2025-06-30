@@ -1,0 +1,7 @@
+Introduced to Bootstrap, most popular in terms of styling, how to use it, pros and cons etc.
+
+Layout, and different breaking points to make something responsive.
+
+Worked with different components like buttons, nav-bars, image-carousel etc.
+
+Made a project entirely using Bootstrap. 
