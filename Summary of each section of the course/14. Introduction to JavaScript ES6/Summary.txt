@@ -1,0 +1,9 @@
+History of JS to writing first code in JS.
+
+How to run on console and via snippets.
+
+Data types and variables, basic stuff. Good practices related to them like naming etc.
+
+Strings, just like java, but with diff func names like split(), splice()... and functions in JS.
+
+Coding challenges only so no projects in this section.
