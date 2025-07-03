@@ -1,0 +1,5 @@
+Continued to dive deeper into JavaScript.
+
+Strings, arrays, functions, loops ...
+
+Coding challenges like Fibonacci etc so did not have much to paste along with summary.
