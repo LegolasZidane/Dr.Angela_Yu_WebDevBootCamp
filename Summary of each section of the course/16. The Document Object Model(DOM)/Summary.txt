@@ -1,0 +1,5 @@
+Inline vs Internal vs External inclusion of JS to websites.
+
+The Document Object Model(DOM) and how to manipulate elements.
+
+Interesting section where I got to know about Structure vs Style vs Behaviour.
