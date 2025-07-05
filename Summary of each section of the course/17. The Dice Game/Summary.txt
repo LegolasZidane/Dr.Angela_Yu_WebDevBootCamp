@@ -1,0 +1,5 @@
+A random game of two players where the algorithm decides who wins.
+
+Using DOM manipulation and some images, the result is displayed which was great. 
+
+Code is in the projects folder.
