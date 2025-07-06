@@ -1,0 +1,7 @@
+This section was a sort of a learn through project kind of thing.
+
+This project was called Drum Kit Project. Using DOM Manipulation and Event handling we were able to link button clicks with sound generation.
+
+You can find this project in the frontend projects folder. I will attach images of the project here.
+
+
