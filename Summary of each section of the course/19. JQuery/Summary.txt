@@ -1,0 +1,6 @@
+One of the most famous JavaScript libraries.
+
+Reduces code and increases efficiency.
+
+Mini version of js code.
+
