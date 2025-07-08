@@ -1,0 +1,5 @@
+A wonderful game created by vanilla javascript.
+
+This module was vague from the instructor's side with unclear instructions so i decided to go ahead with my logic.
+
+After understanding the final goal thoroughly, i was able to create the game logic from scratch. You can check that the instructor's code and mine is very different(usually it is as i tend to finish the project beforehand so that i can compare it with the solution).
