@@ -1,0 +1,3 @@
+A basic introduction to some commonly used commands like ls, cd, rm ...
+
+No projects or coding challenges in this one.
