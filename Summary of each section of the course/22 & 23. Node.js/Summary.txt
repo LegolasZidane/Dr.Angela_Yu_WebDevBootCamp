@@ -1,0 +1,11 @@
+Since Backend Development was a just introduction, so i decided to merge it with Node.js's summary.
+
+In the intro, server, application and database were briefly discussed and how they work together. Also some technologies related to them were discussed.
+
+In the Node.js section, we learnt why we are using a framework like node.js, what benefits do we get, different node modules, and a lot more.
+
+Finally we did a QR Code project which was really fascinating as we completed it by looking at documentation of various packages.
+
+Scan the QR to go to Youtube.com(You can change this by pasting any URL in the URL.txt file and running the code from the projects folder).
+
+
