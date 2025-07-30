@@ -1,13 +1,16 @@
 import express from "express";
 import axios from "axios";
 import bodyParser from "body-parser";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const app = express();
 const port = 3000;
 const API_URL = "https://secrets-api.appbrewery.com";
 
 //Add your own bearer token. Go to the above site for more.
-const yourBearerToken = BEARER_TOKEN;
+const yourBearerToken = process.env.BEARER_TOKEN;
 const config = {
   headers: { Authorization: `Bearer ${yourBearerToken}` },
 };
