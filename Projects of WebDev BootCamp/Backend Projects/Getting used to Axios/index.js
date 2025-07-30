@@ -1,5 +1,8 @@
 import express from "express";
 import axios from "axios";
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const app = express();
 const port = 3000;
@@ -7,10 +10,10 @@ const API_URL = "https://secrets-api.appbrewery.com/";
 
 //Before running locally, please generate this from the above api url given. Visit the url for more info.
 //The code will not run otherwise.
-const yourUsername = "LegolasZidane";
-const yourPassword = "webdevelopment";
-const yourAPIKey = "2420a0fb-4d5b-457b-ac6a-b4f4fa7e21e5";
-const yourBearerToken = "83864602-d9c9-493a-b076-69636e243415";
+const yourUsername = USERNAME;
+const yourPassword = PASSWORD;
+const yourAPIKey = API_KEY;
+const yourBearerToken = BEARER_TOKEN;
 
 app.get("/", (req, res) => {
   res.render("index.ejs", { content: "API Response." });
