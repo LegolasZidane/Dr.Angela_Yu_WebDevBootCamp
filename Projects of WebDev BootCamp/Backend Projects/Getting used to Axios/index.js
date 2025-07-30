@@ -10,10 +10,10 @@ const API_URL = "https://secrets-api.appbrewery.com/";
 
 //Before running locally, please generate this from the above api url given. Visit the url for more info.
 //The code will not run otherwise.
-const yourUsername = USERNAME;
-const yourPassword = PASSWORD;
-const yourAPIKey = API_KEY;
-const yourBearerToken = BEARER_TOKEN;
+const yourUsername = process.env.MY_USERNAME;
+const yourPassword = process.env.MY_PASSWORD;
+const yourAPIKey = process.env.API_KEY;
+const yourBearerToken = process.env.BEARER_TOKEN;
 
 app.get("/", (req, res) => {
   res.render("index.ejs", { content: "API Response." });
