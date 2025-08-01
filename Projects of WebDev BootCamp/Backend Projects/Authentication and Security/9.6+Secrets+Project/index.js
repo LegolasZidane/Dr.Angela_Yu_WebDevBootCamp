@@ -8,8 +8,6 @@ import GoogleStrategy from "passport-google-oauth2";
 import session from "express-session";
 import env from "dotenv";
 
-//5:10 se start
-
 const app = express();
 const port = 3000;
 const saltRounds = 10;
@@ -64,23 +62,21 @@ app.get("/logout", (req, res) => {
 app.get("/secrets", async (req, res) => {
   if (req.isAuthenticated()) {
 
-    //TODO: Update this to pull in the user secret to render in secrets.ejs
     try {
+    
     const result = await db.query("SELECT secret FROM users WHERE email = $1",[req.user.email]);
     if( result.rows[0].secret )
       res.render("secrets.ejs", { secret: result.rows[0].secret });
     else
       res.render("secrets.ejs");
-    } catch (err) {
+  
+  } catch (err) {
       console.log(err);
     }
   } else {
     res.redirect("/login");
   }
 });
-
-//TODO: Add a get route for the submit button
-//Think about how the logic should work with authentication.
 
 app.get("/submit", async (req, res) => {
 
@@ -151,9 +147,6 @@ app.post("/register", async (req, res) => {
     console.log(err);
   }
 });
-
-//TODO: Create the post route for submit.
-//Handle the submitted data and add it to the database
 
 app.post("/submit", async (req, res) => {
   try{
